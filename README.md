@@ -6,3 +6,4 @@ I am making edits to this README using Markdown!
 I can use simple text formmating to make **bold** or *italic* text!
 
 ## Man, pickles are good...
+MORE EDITS BUT IN R STUDIO!!! YAY PICKLES!!!
