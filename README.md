@@ -7,3 +7,5 @@ I can use simple text formmating to make **bold** or *italic* text!
 
 ## Man, pickles are good...
 MORE EDITS BUT IN R STUDIO!!! YAY PICKLES!!!
+
+*Aw yeeaaa* mo edits, but to pull!
