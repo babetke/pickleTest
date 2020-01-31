@@ -9,3 +9,5 @@ I can use simple text formmating to make **bold** or *italic* text!
 MORE EDITS BUT IN R STUDIO!!! YAY PICKLES!!!
 
 *Aw yeeaaa* mo edits, but to pull!
+
+Does this mean I can edit the doc in r studio like this?
