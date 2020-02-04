@@ -11,3 +11,5 @@ MORE EDITS BUT IN R STUDIO!!! YAY PICKLES!!!
 *Aw yeeaaa* mo edits, but to pull!
 
 Does this mean I can edit the doc in r studio like this?
+
+is this still connected?
